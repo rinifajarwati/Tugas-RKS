@@ -1,6 +1,6 @@
-RKS
-Nama : Rini Fajarwati
-NIM  : 1800018350
+RKS <br/>
+Nama : Rini Fajarwati<br/>
+NIM  : 1800018350<br/>
 <br/>
 Pada tugas ini saya membuat website "RinShop" atau seperti Shopee menggunakan Visual Studio Code untuk membuat Front-End nya.
 Terdapat perbedaan pada Front-End karena pada tugas sebulumnya. Dimana wireframe dan workflownya saya membuat tampilan versi android sedangkan pada hasil akhir ini saya membuat dalam versi website.<br/>
