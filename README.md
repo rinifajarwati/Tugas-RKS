@@ -7,8 +7,10 @@ Terdapat perbedaan pada Front-End karena pada tugas sebulumnya. Dimana wireframe
 
 
 Link UTS : https://drive.google.com/drive/folders/1b6NmbwYKKrV5DWWiER79EBVf4kHGvW66?hl=id
-<br/>
-https://github.com/rinifajarwati/tugas-rks/issues/1#issue-798055019
+<br/><br/>
+
+
+Link GIF : https://github.com/rinifajarwati/tugas-rks/issues/1#issue-798055019
 
 
 
